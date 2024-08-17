@@ -1,0 +1,50 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "name": "Cloud Accounts",
+          "text": "Cloud accounting works by storing your data remotely on multiple servers in different physical locations, instead of a single harddrive on the computer in your office. This means you can access your accounting data virtually anywhere as long as you have the right software and password."
+        },
+        {
+          "name": "Cloud Accounts Risk Assisment",
+          "text": "A cloud security risk assessment is a process that analyzes an organization's cloud infrastructure to determine its security posture. It's important for organizations that operate in the cloud to understand current risks and identify gaps in security coverage. The assessment can help identify potential entry points, evidence of compromise, and establish controls to protect critical assets"
+        },
+        {
+          "name": "ghjbgfbv",
+          "text": "dsxc"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "CWPP Dashboard",
+      "widgets": [
+        {
+          "name": "Top 5 Namespace spcific alert",
+          "text": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, frozen crystals, or other particles suspended in the atmosphere of a planetary body or similar space. Water or various other chemicals may compose the droplets and crystals."
+        },
+        {
+          "name": "Workload Alerts",
+          "text": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, frozen crystals, or other particles suspended in the atmosphere of a planetary body or similar space. Water or various other chemicals may compose the droplets and crystals."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Registry scan",
+      "widgets": [
+        {
+          "name": "Image Risk Assessment",
+          "text": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, frozen crystals, or other particles suspended in the atmosphere of a planetary body or similar space. Water or various other chemicals may compose the droplets and crystals."
+        },
+        {
+          "name": "Image Security Issue",
+          "text": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, frozen crystals, or other particles suspended in the atmosphere of a planetary body or similar space. Water or various other chemicals may compose the droplets and crystals."
+        }
+      ]
+    }
+  ]
+}

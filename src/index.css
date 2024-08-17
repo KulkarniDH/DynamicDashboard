@@ -1,0 +1,95 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, div {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a global font and background color */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 20px;
+}
+
+/* Container for the entire app */
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the category headers */
+.category h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #007bff;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 5px;
+}
+
+/* Style for the widget container */
+.widgets {
+  margin-bottom: 20px;
+}
+
+/* Individual widget styles */
+.widget {
+  background: #e9ecef;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.widget h3 {
+  margin-bottom: 5px;
+  font-size: 1.2em;
+  color: #495057;
+}
+
+.widget p {
+  margin-bottom: 0;
+  font-size: 1em;
+  color: #6c757d;
+}
+
+/* Button styles for adding widgets */
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Input field styles */
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+/* Style for the form inside the AddWidget component */
+.add-widget {
+  margin-top: 20px;
+}
+
+.add-widget h3 {
+  margin-bottom: 10px;
+  color: #343a40;
+}
